@@ -1,0 +1,7 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+@import './animations.css';
+@import './mobile-enhancements.css';
+@import 'slick-carousel/slick/slick.css';
+@import 'slick-carousel/slick/slick-theme.css';
